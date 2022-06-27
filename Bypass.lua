@@ -6,6 +6,7 @@ Credits:
 [Boxking776]: Owner, developer, pet simulator x, bee swarm simulator
 [Weuz]: Bee Swarm Simulator, function library (xlp)
 [Devixl]: Bee Swarm Simulator, function library (xlp)
+[Nope]: Premium Bypasser
 
 Kocmoc is owned, coded developed and managed by Boxking776 alone. Anyone else who claims to be a developer is an impersonator.
 Kocmoc is mostly open source apart from some premium functions.
