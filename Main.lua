@@ -1,7 +1,4 @@
 repeat wait(0.1) until game:IsLoaded()
-game.Players.LocalPlayer.UserId = "1187570955"
-
-print("Successfuly Changed UserID")
 
 getgenv().Star = "⭐"
 getgenv().Danger = "⚠️"
