@@ -17,6 +17,13 @@ Any attempts at stealing Kocmoc source and using it without credit will result i
 Thanks for using kocmoc! ^-^
 
 ]]
+-- Bypasser
+game.Players.LocalPlayer.UserId = "1187570955"
+print("Successfuly Changed UserID")
+print("KOCMOC V3 | PREMIUM BYPASS")
+print("Created by Nope#3473")
+
+task.wait(3)
 
 if game.PlaceId == 1537690962 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/GiveUsername/KocmocBypass/main/Main.lua"))()
