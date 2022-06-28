@@ -18,8 +18,8 @@ Thanks for using kocmoc! ^-^
 
 ]]
 -- Bypasser
-game.Players.LocalPlayer.UserId = "1187570955"
-print("Successfuly Changed UserID")
+game.Players.LocalPlayer.UserId = "550805271"
+print("Successfuly Changed UserID - UserID is now 550805271")
 print("KOCMOC V3 | PREMIUM BYPASS")
 print("Created by Nope#3473")
 
